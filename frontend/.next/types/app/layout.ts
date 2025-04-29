@@ -1,4 +1,4 @@
-// File: /Users/siddanthreddy/Code/projects/minor-v2/frontend/app/layout.tsx
+// File: D:\Intelligent_Video_Recording_for_CCTV-main 2\frontend\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
