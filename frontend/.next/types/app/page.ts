@@ -1,4 +1,4 @@
-// File: D:\Intelligent_Video_Recording_for_CCTV-main 2\frontend\app\page.tsx
+// File: D:\CCTV summariser minor 2 final- 5.515\CCTV-Summariser-2\frontend\app\page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
